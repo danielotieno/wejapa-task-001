@@ -55,7 +55,7 @@ npm run build
 
 ## Demo
 
-The app is live at https://share-story-app.herokuapp.com/
+The app is live at https://wejapa-task-001.netlify.app/
 
 ---
 
